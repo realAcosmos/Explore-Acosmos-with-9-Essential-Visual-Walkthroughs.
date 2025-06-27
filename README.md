@@ -7,3 +7,12 @@ Acosmos Community is an open-source community focusing on robot dexterous manipu
 - Rednote：https://www.xiaohongshu.com/user/profile/684117a1000000001b022151
 - Bilibili：https://space.bilibili.com/3546919336938272
 - Reddit:https://www.reddit.com/user/NearbyPrinciple7134/
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/1.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/2.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/3.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/4.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/5.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/6.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/7.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/8.png）
+![image](https://github.com/realAcosmos/Explore-Acosmos-with-9-Essential-Visual-Walkthroughs./blob/main/9.png）
